@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/workspace/3rd/src/lucene4.10/commons-collections4-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/workspace/3rd/src/lucene4.10/commons-lang3-3.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/workspace/3rd/src/lucene4.10/lucene-analyzers-common-4.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/workspace/3rd/src/lucene4.10/lucene-core-4.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/workspace/3rd/src/lucene4.10/lucene-queries-4.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/workspace/3rd/src/lucene4.10/lucene-queryparser-4.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/Downloads/Search/Assignment 3/New folder/collections-generic-4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/Downloads/Search/Assignment 3/New folder/colt-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/Downloads/Search/Assignment 3/New folder/concurrent-1.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/Downloads/Search/Assignment 3/New folder/j3d-core-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/Downloads/Search/Assignment 3/New folder/jung-3d-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/Downloads/Search/Assignment 3/New folder/jung-3d-demos-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/Downloads/Search/Assignment 3/New folder/jung-algorithms-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/Downloads/Search/Assignment 3/New folder/jung-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/Downloads/Search/Assignment 3/New folder/jung-graph-impl-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/Downloads/Search/Assignment 3/New folder/jung-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/Downloads/Search/Assignment 3/New folder/jung-jai-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/Downloads/Search/Assignment 3/New folder/jung-jai-samples-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/Downloads/Search/Assignment 3/New folder/jung-samples-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/Downloads/Search/Assignment 3/New folder/jung-visualization-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/Downloads/Search/Assignment 3/New folder/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/Downloads/Search/Assignment 3/New folder/vecmath-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/Downloads/Search/Assignment 3/New folder/wstx-asl-3.2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
